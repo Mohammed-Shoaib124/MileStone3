@@ -54,12 +54,10 @@ Also add the path of new_distance_matrics.csv file to the possible_paths_1.java
 
 ## Output Format 
 TASK 1 OUTPUT
-For possible paths:
-![TASK1](https://github.com/Mohammed-Shoaib124/Shortest-Path/assets/151399787/78917626-bf83-4618-92d9-26222ab932ff)
-For Dijkstra's:
-![Task1dij](https://github.com/Mohammed-Shoaib124/Shortest-Path/assets/151399787/c3540bbd-0e03-4f8b-b65a-64078c9beecb)
+For Dijkstra's:![TASK1FINAL](https://github.com/Mohammed-Shoaib124/MileStone3/assets/151399787/c2b37317-6963-41e5-8c33-3d15bb61ea0d)
+
 For Bellman-Ford algorithm: 
-![Task1BEll](https://github.com/Mohammed-Shoaib124/Shortest-Path/assets/151399787/581b4837-11ee-48e4-8a30-3f412c49edbc)
+![TASK1BFINAL](https://github.com/Mohammed-Shoaib124/MileStone3/assets/151399787/2d457b29-c644-4404-8652-ccb6204d0725)
 
 TASK 2 OUTPUT
 ![TASK2](https://github.com/Mohammed-Shoaib124/Shortest-Path/assets/151399787/8f758d36-c9f6-4cc6-8b9b-070c02015c24)
