@@ -30,7 +30,7 @@ Also add the path of new_distance_matrics.csv file to the possible_paths_1.java
 
 ## Steps
 * EXECUTION OF TASK 1
-- Extract all the files of the project 
+- Extract all the files of the Algorithm folder 
 - Then set the paths in the respective files mentioned above
 - Run Main.java in the online GDB
 - Enter the inputs in the formats specified
@@ -47,6 +47,7 @@ Also add the path of new_distance_matrics.csv file to the possible_paths_1.java
 * EXECUTION OF TASK 3
 - Execute Task 1 again in your IDE it will give you a text file as output.
 - Download the text file.
+- Extract all the files of the Vizualization folder and save the text file in that folder. 
 - In the CityGraph1.java in the main class give the text file path.
 - Run CityGraph1.java
 - Give the inputs in specified format and select option 2 to shortest path.
